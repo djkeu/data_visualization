@@ -4,7 +4,7 @@
 
 """
 Installing MatplotLib, p.306
-
+Plotting a simple line graph, p.306
 
 
 """
