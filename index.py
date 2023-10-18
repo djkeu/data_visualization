@@ -3,7 +3,7 @@
 # Chapter 15: Generating data, p.305
 
 """
-Installing MadplotLib, p.306
+Installing MatplotLib, p.306
 
 
 
