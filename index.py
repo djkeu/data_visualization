@@ -5,6 +5,6 @@
 """
 Installing MatplotLib, p.306
 Plotting a simple line graph, p.306
-
+    Changing the label type and line thicknes, p.307
 
 """
