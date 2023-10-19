@@ -32,5 +32,6 @@ Random walks, p.315
     Choosing directions, p.316
     Plotting the random walk, p.317
         rw_visual.py
+    Generating multiple random walks, p.318
     
 """
