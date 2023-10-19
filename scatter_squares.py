@@ -17,5 +17,7 @@ ax.tick_params(axis='both', which='major', labelsize=14)
 
 # Set the range for each axis
 ax.axis([0, 1100, 0, 1100_000])
+# Show the numbers as they are instead of 1e6-style
+ax.ticklabel_format(style='plain')
 
 plt.show()
