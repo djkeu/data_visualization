@@ -26,5 +26,7 @@ Plotting a simple line graph, p.306
     15.2 Coloured cubes
         Apply a colormap to your cubes plot.
 
-
+Random walks, p.315
+    Creating the RandomWalk() class, p.316
+    
 """
