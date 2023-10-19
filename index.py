@@ -30,5 +30,7 @@ Random walks, p.315
     Creating the RandomWalk() class, p.316
         random_walk.py
     Choosing directions, p.316
+    Plotting the random walk, p.317
+        rw_visual.py
     
 """
