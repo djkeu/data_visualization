@@ -9,5 +9,6 @@ Plotting a simple line graph, p.306
     Correcting the plot, p.309
     Note: 'q' closes figure
     Using built-in styles, p.310
-
+    Plotting and styling individual points with scatter(), p.310
+    
 """
