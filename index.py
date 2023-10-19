@@ -18,5 +18,10 @@ Plotting a simple line graph, p.306
     Defining custom colors, p.314
     Using a colormap, p.314
     Saving your plots automatically, p.315
-        
+
+# Try it yourself, p.315
+    ToDo: 15.1 Cubes
+    ToDo: Coloured cubes    
+
+
 """
