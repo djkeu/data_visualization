@@ -18,6 +18,6 @@ while True:
 
     plt.show()
 
-    keep_running = input("\nNog een eindje lopen? (j/n): ")
+    keep_running = input("\nNog een eindje lopen? \n('n' om te stoppen, 'j' om door te gaan): ")
     if keep_running == 'n':
         break
