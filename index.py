@@ -28,5 +28,6 @@ Plotting a simple line graph, p.306
 
 Random walks, p.315
     Creating the RandomWalk() class, p.316
+        random_walk.py
     
 """
