@@ -12,5 +12,6 @@ Plotting a simple line graph, p.306
     Using built-in styles, p.310
     Plotting and styling individual points with scatter(), p.310
         scatter_squares.py
+    Plotting a series of points with scatter(), p.312
     
 """
