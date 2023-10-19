@@ -21,7 +21,10 @@ Plotting a simple line graph, p.306
 
 # Try it yourself, p.315
     ToDo: 15.1 Cubes
-    ToDo: Coloured cubes    
+    A number raised to the third power is a cube. Plot the first five cubic numbers, and then plot the first 5000 cubic numbers.
+        cubes.py
+    ToDo: Coloured cubes
+    Apply a colormap to your cubes plot.
 
-
+    
 """
