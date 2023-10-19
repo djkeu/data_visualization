@@ -33,5 +33,7 @@ Random walks, p.315
     Plotting the random walk, p.317
         rw_visual.py
     Generating multiple random walks, p.318
-    
+    Styling the walk, p.319
+        Coloring the points, p.319
+        
 """
