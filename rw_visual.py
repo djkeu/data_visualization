@@ -14,10 +14,12 @@ while True:
 
     fig, ax = plt.subplots()
     ax.scatter(rw.x_values, rw.y_values, s=15)
+    print("('q' om de huidige wandeling te onderbreken)")
 
     plt.show()
 
-    keep_running = input("Nog een eindje lopen? (j/n): ")
+    keep_running = input("\nNog een eindje lopen? (j/n): ")
     if keep_running == 'n':
         break
-    
+    if keep_running != 'j':
+        print("\n\tJa of nee, stommeling, 'j' of 'n'! \n\nMaar omdat dat blijkbaar te moeilijk voor je is gaan we gewoon nog een keer. Sukkel.\n")
