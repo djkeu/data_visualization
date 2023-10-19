@@ -20,11 +20,11 @@ Plotting a simple line graph, p.306
     Saving your plots automatically, p.315
 
 # Try it yourself, p.315
-    ToDo: 15.1 Cubes
-    A number raised to the third power is a cube. Plot the first five cubic numbers, and then plot the first 5000 cubic numbers.
+    15.1 Cubes
+        A number raised to the third power is a cube. Plot the first five cubic numbers, and then plot the first 5000 cubic numbers.
         cubes.py
-    ToDo: Coloured cubes
-    Apply a colormap to your cubes plot.
+    15.2 Coloured cubes
+        Apply a colormap to your cubes plot.
 
-    
+
 """
