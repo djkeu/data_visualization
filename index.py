@@ -13,5 +13,6 @@ Plotting a simple line graph, p.306
     Plotting and styling individual points with scatter(), p.310
         scatter_squares.py
     Plotting a series of points with scatter(), p.312
+    Calculating data automatically, p.312
     
 """
