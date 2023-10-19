@@ -9,6 +9,6 @@ y_values = [x **3 for x in x_values]
 
 plt.style.use('seaborn-v0_8')
 fig, ax = plt.subplots()
-ax.plot(x_values, y_values)
+ax.scatter(x_values, y_values, s=10, c=y_values, cmap=plt.cm.inferno)
 
 plt.show()
