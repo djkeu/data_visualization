@@ -20,7 +20,4 @@ while True:
 
     keep_running = input("\nNog een eindje lopen? (j/n): ")
     if keep_running == 'n':
-        print("\n\tBye!!\n")
         break
-    elif keep_running != 'j':
-        print("\n\tJa of nee, stommeling, 'j' of 'n'! \n\nMaar omdat dat blijkbaar te moeilijk voor je is gaan we gewoon nog een keer. Sukkel.\n")
