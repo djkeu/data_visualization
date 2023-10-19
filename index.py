@@ -16,5 +16,7 @@ Plotting a simple line graph, p.306
     Plotting a series of points with scatter(), p.312
     Calculating data automatically, p.312
     Defining custom colors, p.314
+    Using a colormap, p.314
+    Saving your plots automatically, p.315
         
 """

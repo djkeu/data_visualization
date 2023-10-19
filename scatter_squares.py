@@ -20,4 +20,5 @@ ax.axis([0, 1100, 0, 1100_000])
 # Show the numbers as they are instead of 1e6-style
 ax.ticklabel_format(style='plain')
 
+# plt.savefig('sqaures_plot.png', bbox_inches='tight')
 plt.show()
