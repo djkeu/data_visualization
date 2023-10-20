@@ -35,5 +35,8 @@ Random walks, p.315
     Generating multiple random walks, p.318
     Styling the walk, p.319
         Coloring the points, p.319
-        
+        Plotting the starting and endig points, p.320
+        Cleaning up the axes, p.321
+        ToDo: Adding plot points, p.321
+
 """
