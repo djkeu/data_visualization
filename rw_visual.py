@@ -12,7 +12,7 @@ while True:
     # Plot the points in the walk
     plt.style.use('seaborn-v0_8')  # 'classic' doesn't close with 'q'
 
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(13,7))
     point_numbers = range(rw.num_points)
     ax.scatter(rw.x_values, rw.y_values, c=point_numbers, cmap=plt.cm.winter, edgecolors='none', s=1)
 
