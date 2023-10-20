@@ -45,5 +45,7 @@ Random walks, p.315
         molecular_motion.py
     15.4 Modified random walks
         molecular_walk.py
-
+    ToDo: 15.5 Refactoring
+        random_walk.py
+        
 """
