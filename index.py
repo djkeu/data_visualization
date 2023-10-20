@@ -43,7 +43,7 @@ Random walks, p.315
 # Try it yourself, p.323
     15.3 Molecular motion
         molecular_motion.py
-    ToDo: 15.4 Modified random walks
-
+    15.4 Modified random walks
+        molecular_walk.py
 
 """
