@@ -42,5 +42,6 @@ Random walks, p.315
 
 # Try it yourself, p.323
     15.3 Molecular motion
-    
+        molecular_motion.py
+
 """
