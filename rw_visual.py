@@ -13,11 +13,11 @@ while True:
     plt.style.use('seaborn-v0_8')  # 'classic' doesn't close with 'q'
 
     fig, ax = plt.subplots()
-    ax.scatter(rw.x_values, rw.y_values, s=15)
-    print("('q' om de huidige wandeling te onderbreken)")
+    point_numbers = range(rw.num_points)
+    ax.scatter(rw.x_values, rw.y_values, c=point_numbers, cmap=plt.cm.Blues, s=15)
 
     plt.show()
 
-    keep_running = input("\nNog een eindje lopen? \n('n' om te stoppen, willekeurige toets om door te gaan): ")
+    keep_running = input("\nNog een eindje lopen? \n('n' om te stoppen): ")
     if keep_running == 'n':
         break
