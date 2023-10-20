@@ -65,4 +65,3 @@ Note: 'q' closes figure
 
 # Rolling dice with Plotly, p.323
     Installing Plotly, p.324
-        
