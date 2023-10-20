@@ -4,7 +4,7 @@ from molecular_walk import RandomWalk
 
 
 # Make a random walk
-rw =RandomWalk(5_000)
+rw = RandomWalk(5_000)
 rw.fill_walk()
 
 # Plot the points in the walk
