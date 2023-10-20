@@ -49,6 +49,6 @@ Random walks, p.315
         random_walk.py
 
 Rolling dice with Plotly, p.323
-    Installing Plotly, p324
-    
+    Installing Plotly, p.324
+
 """
