@@ -39,5 +39,8 @@ Random walks, p.315
         Cleaning up the axes, p.321
         Adding plot points, p.321
         Altering the size to fill the screen, p.322
-        
+
+# Try it yourself, p.323
+    15.3 Molecular motion
+    
 """
