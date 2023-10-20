@@ -37,6 +37,7 @@ Random walks, p.315
         Coloring the points, p.319
         Plotting the starting and endig points, p.320
         Cleaning up the axes, p.321
-        ToDo: Adding plot points, p.321
-
+        Adding plot points, p.321
+        Altering the size to fill the screen, p.322
+        
 """
