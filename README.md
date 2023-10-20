@@ -7,8 +7,9 @@ Note: 'q' closes figure
 
 # Chapter 15: Generating data, p.305
 
-Installing MatplotLib, p.306
-Plotting a simple line graph, p.306
+# Installing MatplotLib, p.306
+
+# Plotting a simple line graph, p.306
         mpl_squares.py
     Changing the label type and line thickness, p.307
     Correcting the plot, p.309
@@ -28,7 +29,7 @@ Plotting a simple line graph, p.306
     15.2 Coloured cubes
         Apply a colormap to your cubes plot.
 
-Random walks, p.315
+# Random walks, p.315
     Creating the RandomWalk() class, p.316
         random_walk.py
     Choosing directions, p.316
@@ -50,5 +51,5 @@ Random walks, p.315
     15.5 Refactoring
         random_walk.py
 
-Rolling dice with Plotly, p.323
+# Rolling dice with Plotly, p.323
     Installing Plotly, p.324
