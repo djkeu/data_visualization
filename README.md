@@ -25,9 +25,11 @@ Note: 'q' closes figure
 # Try it yourself, p.315
     15.1 Cubes
         A number raised to the third power is a cube. Plot the first five cubic numbers, and then plot the first 5000 cubic numbers.
-        cubes.py
+            cubes.py
+    
     15.2 Coloured cubes
         Apply a colormap to your cubes plot.
+            cubes.py
 
 # Random walks, p.315
     Creating the RandomWalk() class, p.316
@@ -45,11 +47,22 @@ Note: 'q' closes figure
 
 # Try it yourself, p.323
     15.3 Molecular motion
-        molecular_motion.py
+        Modify rw_visual.py by replacing plt.scatter() with plt.plot(). To simulate the path of a pollen grain on the surface of a drop of water, pass in the rw.x_values and rw.y_values, and include a linewidth argument. Use 5000 instead of 50,000 points
+            molecular_motion.py
+    
     15.4 Modified random walks
-        molecular_walk.py
+        In the RandomWalk class, x_step and y_step are generated from the same set of conditions. The direction is chosen randomly from the list [1, -1] and the distance from the list [0, 1, 2, 3, 4]. Modify the values in these lists to see what happens to the overall shape of your walks. Try a longer list of choices for the distance, such as 0 through 8, or remove the −1 from the x or y direction list.
+            molecular_walk.py
+    
     15.5 Refactoring
-        random_walk.py
+        The fill_walk() method is lengthy. Create a new method called get_step() to determine the direction and distance for each step, and then calculate the step. You should end up with two calls to get_step() in fill_walk():
+        
+        x_step = self.get_step()
+        y_step = self.get_step()
+        
+        This refactoring should reduce the size of fill_walk() and make the method easier to read and understand.
+            random_walk.py
 
 # Rolling dice with Plotly, p.323
     Installing Plotly, p.324
+        
