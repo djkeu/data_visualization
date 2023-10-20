@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-from random_walk import RandomWalk
+from molecular_walk import RandomWalk
 
 
 # Make a random walk
