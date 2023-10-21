@@ -82,5 +82,9 @@ Note: 'q' closes figure
     Create a simulation showing what happens when you roll two eight-sided dice 1000 times. Try to picture what you think the visualization will look like before you run the simulation; then see if your intuition was correct. Gradually increase the number of rolls until you start to see the limits of your system’s capabilities.
         die_trying.py
 
-## ToDo: 15-7 Three Dice
+## 15-7 Three Dice
     When you roll three D6 dice, the smallest number you can roll is 3 and the largest number is 18. Create a visualization that shows what happens when you roll three D6 dice.
+
+## 15-8 Multiplication
+    When you roll two dice, you usually add the two numbers together to get the result. Create a visualization that shows what happens if you multiply these numbers instead.
+
