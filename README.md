@@ -86,6 +86,6 @@ Note: 'q' closes figure
     When you roll three D6 dice, the smallest number you can roll is 3 and the largest number is 18. Create a visualization that shows what happens when you roll three D6 dice.
         three_dice.py
 
-## 15-8 Multiplication
+## ToDo: 15-8 Multiplication
     When you roll two dice, you usually add the two numbers together to get the result. Create a visualization that shows what happens if you multiply these numbers instead.
         mutlilplication.py
