@@ -74,4 +74,5 @@ Note: 'q' closes figure
         die_visual.py
     Analyzing the results
     Rolling two dice, p.328
+    Rolling dice of different sized, p.329
     
