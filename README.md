@@ -69,4 +69,5 @@ Note: 'q' closes figure
 # Rolling dice with Plotly, p.323
     Installing Plotly, p.324
     Creating the Die class, p.324
+        die.py
     
