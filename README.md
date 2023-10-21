@@ -72,4 +72,4 @@ Note: 'q' closes figure
         die.py
     Rolling the die, p.325
         die_visual.py
-    
+    Analyzing the results
