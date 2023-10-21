@@ -3,14 +3,14 @@ from plotly import offline
 
 from die import Die
 
-# Create a D6 and a D10
-die_1 = Die()
-die_2 = Die(10)
+# Create two D8's
+die_1 = Die(8)
+die_2 = Die(8)
 
 # Make rolls, store the results
 results = []
 
-for roll_num in range(50_000):
+for roll_num in range(1_000):
     result = die_1.roll() + die_2.roll()
     results.append(result)
 
