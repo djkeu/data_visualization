@@ -70,4 +70,6 @@ Note: 'q' closes figure
     Installing Plotly, p.324
     Creating the Die class, p.324
         die.py
+    Rolling the die, p.325
+        die_visual.py
     
