@@ -73,3 +73,5 @@ Note: 'q' closes figure
     Rolling the die, p.325
         die_visual.py
     Analyzing the results
+    Rolling two dice, p.328
+    
