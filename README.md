@@ -89,3 +89,9 @@ Note: 'q' closes figure
 ## 15-8 Multiplication
     When you roll two dice, you usually add the two numbers together to get the result. Create a visualization that shows what happens if you multiply these numbers instead.
         multiplication.py
+
+## ToDo: 15-9 Die Comprehensions
+    For clarity, the listings in this section use the long form of for loops. If you’re comfortable using list comprehensions, try writing a comprehension for one or both of the loops in each of these programs.
+
+## ToDo: 15-10 Practicing with Both Libraries
+    Try using Matplotlib to make a die-rolling visualization, and use Plotly to make the visualization for a random walk. (You’ll need to consult the documentation for each library to complete this exercise.)
