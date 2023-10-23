@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-from random import randint
 
 from die import Die
 
