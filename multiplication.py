@@ -8,16 +8,12 @@ die_2 = Die()
 
 results = []
 
-for roll_number in range(1, 1000):
-    result = die_1. roll() * die_2.roll()
-    results.append(result)
+results = [die_1.roll() * die_2.roll() for _ in range(1, 1000)]
 
 frequencies = []
 maximum_result = die_1.num_sides * die_2.num_sides
 
-for value in range(1, maximum_result+1):
-    frequency = results.count(value)
-    frequencies.append(frequency)
+frequencies = [results.count(value) for value in range(1, maximum_result + 1)]
 
 x_values = list(range(1, maximum_result+1))
 data = Bar(x=x_values, y=frequencies)
