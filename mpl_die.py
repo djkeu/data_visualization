@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from random import randint
 
-fnum_sides = 6
+num_sides = 6
 
 input_values = range(1, num_sides+1)
 
